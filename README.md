@@ -10,16 +10,16 @@ This project is a simulation of a magical arena where two players fight until on
 - Simple text-based interface
 
 ## Classes and Responsibilities
-'Main'
+'Main'-
 The Main class contains the main method to start the application.
 
-'Arena'
+'Arena'-
 The Arena class handles the combat logic between two players.
 
-'Player'
+'Player'-
 The Player class represents a player in the game with attributes for health, strength, and attack.
 
-'Dice'
+'Dice'-
 The Dice class simulates a dice roll.
 
 The provided test cases cover a variety of scenarios for Player, Dice, and Arena. Here's a summary of what each test checks:
